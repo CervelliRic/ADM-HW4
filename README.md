@@ -4,10 +4,11 @@
 
 ### House description: 
 House enjoys pursuing the truth, and he knows we all see the world through our own lenses. He's constantly trying to strip himself of those biases, to get a clean, objective view of things, House speaks multiple languages, he listens the jazz and plays the piano and has an interest in vintage electric guitars.
-![house](https://media0.giphy.com/media/O5MMKTXFyO98Y/200w.gif?cid=3640f6095c0d548b484877364df538a5)
-
 I'm sorry guys I was wrong, seriously.
 
+![house](https://media.giphy.com/media/GDnomdqpSHlIs/giphy.gif)
+
+###  Real goal of this part of hw4:
 In this section of HW4 we implemented two clustering .we created two datasets and each of them is filled by data that we scraped.
 You can check our results in this repo.
 
