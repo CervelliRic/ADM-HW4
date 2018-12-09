@@ -15,8 +15,8 @@ You can check our results in this repo.
 ## 2) Find the duplicates!
 
 You can check in this repository HASHING.ipynb here there is our code about this part.
-We downloaded  passwords2.txt file and we took it  as input. Each row corresponds to a string of 20 characters.We define our hash function that associates a value to each string. The goal wads to check whether there are some duplicate strings.
-- in the first case order was not important. Thus, "AABA" = "AAAB".
+We downloaded  passwords2.txt file and we took it  as input. Each row corresponds to a string of 20 characters.We define our hash function that associates a value to each string. The goal is to check whether there are some duplicate strings.
+- in the first case, order is not important. Thus, "AABA" = "AAAB".
 - in the second case "AABA" != "AAAB"
 
 
