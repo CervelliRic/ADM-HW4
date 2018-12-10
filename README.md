@@ -20,4 +20,4 @@ We downloaded  passwords2.txt file and we took it  as input. Each row correspond
 - in the second case "AABA" != "AAAB"
 
 
-If you wanna really read our works go [here]()! 
+If you wanna really read our works go [here](https://github.com/CervelliRic/ADM-HW4/blob/master/HW-4.ipynb)! 
